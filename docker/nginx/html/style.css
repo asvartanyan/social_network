@@ -1,0 +1,11 @@
+
+form {
+   background-color: gainsboro;
+   width: 50%;
+}
+input {
+   display: flex;
+   flex-direction: column;
+   margin-top: 10px;
+   margin-left: 5px;
+}
